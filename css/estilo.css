@@ -1,0 +1,46 @@
+h1,h2{
+  text-align: center; 
+  clear: both;
+}
+.texto-principal{
+    margin: 3% 15% 3%  15%;
+}
+
+.listadoPersonas{
+    margin-left: 15%;
+}
+
+.img-r{
+    width: 100%;
+}
+.tabla-mascotas{
+    width: 67%;
+    margin: 0 auto;
+}
+.tabla-mascotas2{
+    width: 67%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.imgtabla{
+width: 10%;
+}
+
+.imgtabla2{
+    width: 50%;
+}
+
+.txttabla{
+    padding: 10px;
+}
+.derecha{
+    float: right;
+    clear: both;
+}
+
+.derecham{
+    float: right;
+    clear: both;
+    margin-bottom: 10%;
+}
